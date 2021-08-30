@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Calixto-Wellington
 - 👀 I’m interested in HTML, CSS and JavaScript. 
-- 🌱 I’m currently learning CSS.
+- 🌱 I’m currently learning Java-Script.
 - 💞️ I'm a student in class 16 at Trybe. https://betrybe.com
 - 📫 How to reach me https://www.linkedin.com/in/wellington-calixto-b9400332/
 
